@@ -11,6 +11,7 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+    "scheme": "rn-expo-app",
     "assetBundlePatterns": [
       "**/*"
     ],
